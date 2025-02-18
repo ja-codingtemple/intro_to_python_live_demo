@@ -1,6 +1,7 @@
 # Intro to Python (To Do Application)
 
 This repository contains the project starter-code and examples demonstrated in the live lesson.
+<br />
 
 Starter Code: to_do_list.py
 <br />
